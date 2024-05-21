@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-<iframe src= "https://github.com/JoanChimezie/joanchimezie.github.io/files/15396059/CV.github.pdf"  width="600" height="780" style="boarder: none;"></iframe>
+<iframe src= "https://docs.google.com/document/d/10y3O6zSCLE2GYjpXktHXnypcxTbf5FgP/edit"  width="600" height="780" style="boarder: none;"></iframe>
 
 
   
