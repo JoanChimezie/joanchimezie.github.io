@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /Research/
 author_profile: true
 ---
+# Joan Chimezie
+
+My research focus is Paleoecology and wildfires
 
 
 
-
-This is a test.
-#This is a test.
-## This is a test.
