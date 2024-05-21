@@ -1,5 +1,12 @@
-permalink	    title	        excerpt	  author_profile	     redirect_from
-/             About        About me     true            /about/ /about.html
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+  ---
+    
 
 I am currently a Ph.D. student in the Geography Department at UCLA. 
 
