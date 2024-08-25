@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,14 +14,15 @@ I am currently a Ph.D. student in the Geography Department at the University of 
 
 
 # Education
+
 ### Ph.D. Geography
-University of California, Los Angeles
+*University of California, Los Angeles*
 
 
 ### M.S Botany (Paleoecology)
-University of Wisconsin-Madison, 2023
+*University of Wisconsin-Madison*, 2023
 
 
 ### B.S Botany (Environmental Botany & Palynology)
-University of Lagos, Nigeria
+*University of Lagos, Nigeria*
 
