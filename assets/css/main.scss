@@ -9,7 +9,11 @@
  *  - https://twitter.com/mmistakes
  *
 */
+html {
 
+  background-color: black !important;
+  color: white !important;
+}
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
