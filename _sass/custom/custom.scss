@@ -1,30 +1,30 @@
 // Apply dark mode with a bluish tint
 body {
-  background-color: #0a0f1e; // Deep navy blue
-  color: #cfd8e3; // Soft bluish-white text
+  background-color: #0a0f1e !important; // Deep navy blue
+  color: #cfd8e3 !important; // Soft bluish-white text
 }
 
 // Headings with a cooler white tone
 h1, h2, h3, h4, h5, h6 {
-  color: #e1e8f0; 
+  color: #e1e8f0 !important;
 }
 
 // Links with a glowing blue effect
 a {
-  color: #4da6ff; // Light blue
+  color: #4da6ff !important; // Light blue
 }
 
 a:hover {
-  color: #80c1ff; // Softer blue on hover
+  color: #80c1ff !important; // Softer blue on hover
 }
 
 // Code blocks and preformatted text
 pre, code {
-  background-color: #131a2b; // Dark blue-gray background
-  color: #92b4f4; // Light blue text
+  background-color: #131a2b !important; // Dark blue-gray background
+  color: #92b4f4 !important; // Light blue text
 }
 
 // Sidebar and navigation background color
 .sidebar {
-  background-color: #0c1427; // Darker navy blue
+  background-color: #0c1427 !important; // Darker navy blue
 }
