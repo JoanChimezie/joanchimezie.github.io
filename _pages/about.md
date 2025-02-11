@@ -13,7 +13,7 @@ My research focuses on understanding the long-term interactions between wildfire
  
 Additionally, I explore the policy implications of fire history research, evaluating how past and present regulations have influenced wildfire patterns and ecological change. Through an interdisciplinary approach combining paleoecology, geography, and environmental policy, I seek to contribute to sustainable land management strategies that enhance climate resilience and biodiversity conservation.
  
-At UCLA, I work with [Dr. Glen MacDonald](https://glenmmacdonald.com/). .  I previously worked in Dr. Sara Hotchkiss’ PaleoEcology and Quaternary Paleoclimatology group at the University of Wisconsin-Madison. I have also been advised by Dr. Debra Willard (USGS), Dr. Miriam Jones (USGS) and Dr. Jack Williams (UW Madison).
+At UCLA, I work with [Dr. Glen MacDonald](https://glenmmacdonald.com/). I previously worked in Dr. Sara Hotchkiss’ [PaleoEcology and Quaternary Paleoclimatology group](https://hotchkisslab.botany.wisc.edu/) at the University of Wisconsin-Madison. I have also been advised by Dr. Debra Willard (USGS), Dr. Miriam Jones (USGS) and Dr. Jack Williams (UW Madison).
  
 To know more about my research, check out my presentation (the presentation tab).
 
@@ -34,4 +34,7 @@ To know more about my research, check out my presentation (the presentation tab)
 
 Between my bachelor's and master's studies, I worked for approximately two years as an Environmental Consultant at AquaEarth Consulting. In this role, I was actively engaged in environmental planning, impact assessment, management, monitoring, and auditing across multiple sectors, including power, maritime, and oil & gas in Nigeria. My responsibilities required a deep understanding of environmental regulations, sustainability frameworks, and risk mitigation strategies to ensure strict compliance with industry and governmental standards.
 
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; width: 100%;">
+  <img src="/assets/images/example.jpg" alt="Example Image" style="width: 65%; min-width: 300px;">
+  <img src="/assets/images/example.jpg" alt="Example Image" style="width: 35%; min-width: 150px;">
+</div>
