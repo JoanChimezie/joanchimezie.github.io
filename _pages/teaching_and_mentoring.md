@@ -50,5 +50,5 @@ For a detailed overview of the students I have mentored and the research project
  <i>With two of my students at the 2022 Bio152 Annual Poster Symposium, UW Madison</i>
 
  <br>
-<div><img src="/images/evalyse.png" alt="Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+<div><img src="/images/evalese.png" alt="Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling" style="max-height: 300px; width: auto; object-fit: cover;"></div>
  <i>Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling</i>
