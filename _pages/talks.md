@@ -7,7 +7,8 @@ author_profile: true
 
 <div><img src="/images/joan-speaking.png" alt="Joan speaking" style="width: 100%; max-height: 400px; object-fit: cover;"></div>
 
-
+<br>
+<br>
 <div class="list__item">
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
   <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">
