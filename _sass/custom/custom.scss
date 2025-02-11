@@ -7,4 +7,7 @@ body {
   color: #fff !important;
 }
 
-
+::-moz-selection { /* Firefox */
+  background-color: #324EA4 !important;
+  color: #fff !important;
+}
