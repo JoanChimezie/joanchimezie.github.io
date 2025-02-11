@@ -4,6 +4,7 @@ title: "Talks and Posters"
 permalink: /talks/
 author_profile: true
 ---
+<img src="/assets/images/example.jpg" alt="Joan Talking" style="width: 100%; max-height: 400px; object-fit: cover;">
 
 **OpenCanopy: Tracking California’s Urban Forest** The Western Chapter of the International Society of Arboriculture. 
 *April 2024 | Cultivating Competence | Presentation*
