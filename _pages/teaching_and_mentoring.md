@@ -23,7 +23,8 @@ author_profile: true
 **Introductory Biology, Independent Project mentor and reviewer** -  University of Wisconsin-Madison, Department of Integrative Biology (Spring 2022)
 
 <br>
- <div><img src="/images/joan-hawaii.png" alt="Joan in Hawaii" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <div><img src="/images/general-botany-b-2023.jpg" alt="General Botany, Section B - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>General Botany, Section B - Spring semester 2023</i>
 <br>
 <br>
 # Mentoring 
