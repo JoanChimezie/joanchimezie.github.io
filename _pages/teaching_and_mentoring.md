@@ -23,21 +23,19 @@ author_profile: true
 **Introductory Biology, Independent Project mentor and reviewer** -  University of Wisconsin-Madison, Department of Integrative Biology (Spring 2022)
 
 <br>
- <div><img src="/images/general-botany-b-2023.jpg" alt="General Botany, Section B - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section B - Spring semester 2023</i>
-<br>
-<div><img src="/images/general-botany-a-2023.jpg" alt="General Botany, Section A - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section A - Spring semester 2023</i>
- <br>
-<div><img src="/images/general-botany-b-2022.jpg" alt="General Botany, Section B - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section B - Fall semester 2023</i>
- <br>
-<div><img src="/images/general-botany-a-2022.jpg" alt="General Botany, Section A - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section A - Fall semester 2023</i>
- <br>
-<div><img src="/images/general-botany-a-2021.jpg" alt="General Botany, Section A - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section B - Fall semester 2023</i>
-<br>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+<div> <div><img src="/images/general-botany-b-2023.jpg" alt="General Botany, Section B - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>General Botany, Section B - Spring semester 2023</i></div>
+<div><div><img src="/images/general-botany-a-2023.jpg" alt="General Botany, Section A - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>General Botany, Section A - Spring semester 2023</i></div>
+<div><div><img src="/images/general-botany-b-2022.jpg" alt="General Botany, Section B - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>General Botany, Section B - Fall semester 2023</i></div>
+<div><div><img src="/images/general-botany-a-2022.jpg" alt="General Botany, Section A - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>General Botany, Section A - Fall semester 2023</i></div>
+<div><div><img src="/images/general-botany-a-2021.jpg" alt="General Botany, Section A - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>General Botany, Section B - Fall semester 2023</i></div>
+</div>
 <br>
 # Mentoring 
 
