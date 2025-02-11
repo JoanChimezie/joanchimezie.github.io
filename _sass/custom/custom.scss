@@ -28,4 +28,9 @@ gap: 1rem !important;
     .grid-imgs {
       grid-template-columns: repeat(1, 1fr) !important;
     }
+    .grid-imgs div {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
   }
