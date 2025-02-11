@@ -5,14 +5,12 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-  background-color: $text-color;
 }
 
 body {
   margin: 0;
   padding: 0;
   padding-bottom: 9em;
-  color: black;
   font-family: $global-font-family;
   line-height: 1.5;
 
