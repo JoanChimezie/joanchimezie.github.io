@@ -4,7 +4,8 @@ title: "Talks and Posters"
 permalink: /talks/
 author_profile: true
 ---
-<img src="/images/joan-speaking.png" alt="Joan speaking" style="width: 100%; max-height: 400px; object-fit: cover;">
+
+<div><img src="/images/joan-speaking.png" alt="Joan speaking" style="width: 100%; max-height: 400px; object-fit: cover;"></div>
 
 
 **[Long-term Record of Regional Vegetation and Biomass Burning in the High Fire Risk Plumas National Forest, California](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428)**
