@@ -90,19 +90,6 @@ author_profile: true
 
 
 
-<div class="list__item">
-  <br>
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-  <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">• 
-    <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428" rel="permalink" target="_blank">
-    Holocene peatland Fire Reconstruction in the Appalachian Mountains of West Virginia, USA
-    </a>
-  </p>
-  <p class="page__meta" stye="font-size: 0.75em; color: ##9ba1a6;"><i class="fas fa-calendar-alt" aria-hidden="true"></i>  March 17, 2023</p>
-  <p class="archive__item-excerpt" itemprop="description"><i>Poster & Oral Presentation</i> | GSA 2023 Southeastern & Northeastern section Meeting, Reston, Virginia.</p>
-    <div><img src="/images/joan-virginia.png" alt="Joan in Virginia" style="max-height: 300px; width: auto; object-fit: cover;"></div>
-  </article>
-</div>
 
 
 
