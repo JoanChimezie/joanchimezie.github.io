@@ -14,7 +14,7 @@ Poster Presentation. AGU 2024 Meeting, Washington, DC.
 
 <div class="list__item">
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-  <p class="archive__item-title" itemprop="headline">
+  <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">
     <a href="https://krishnakrao.github.io/talks/phd-defense" rel="permalink">
     Parched Plants to Flaming Forests: Understanding Tree Mortality and Wildfires with Microwave Remote Sensing of Vegetation Water Stress 
     </a>
