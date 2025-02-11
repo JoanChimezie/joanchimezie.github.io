@@ -40,15 +40,8 @@ Between my bachelor's and master's studies, I worked for approximately two years
 
 
 <div style="display: flex; gap: 20px; align-items: stretch; flex-wrap: wrap;">
-  <img src="/images/outdoor2.jpg" alt="Me outdoor" style="flex: 2; min-width: 200px; height: 300px; object-fit: cover;">
-  <img src="/images/outdoor1.jpg" alt="Joan outdoor" style="flex: 1; min-width: 200px; height: 300px; object-fit: cover;">
+  <img src="/images/outdoor2.jpg" class="site-img" alt="Me outdoor" style="flex: 2; min-width: 200px; height: 300px; object-fit: cover;">
+  <img src="/images/outdoor1.jpg" class="site-img" alt="Joan outdoor" style="flex: 1; min-width: 200px; height: 300px; object-fit: cover;">
 </div>
 
-<style>
-  @media (max-width: 700px) {
-    img {
-      flex: 100% !important;
-      min-width: 100% !important;
-    }
-  }
-</style>
+
