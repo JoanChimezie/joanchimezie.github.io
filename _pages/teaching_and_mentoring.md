@@ -26,7 +26,29 @@ author_profile: true
  <div><img src="/images/general-botany-b-2023.jpg" alt="General Botany, Section B - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
  <i>General Botany, Section B - Spring semester 2023</i>
 <br>
+<div><img src="/images/general-botany-a-2023.jpg" alt="General Botany, Section A - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>General Botany, Section A - Spring semester 2023</i>
+ <br>
+<div><img src="/images/general-botany-b-2022.jpg" alt="General Botany, Section B - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>General Botany, Section B - Fall semester 2023</i>
+ <br>
+<div><img src="/images/general-botany-a-2022.jpg" alt="General Botany, Section A - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>General Botany, Section A - Fall semester 2023</i>
+ <br>
+<div><img src="/images/general-botany-a-2021.jpg" alt="General Botany, Section A - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>General Botany, Section B - Fall semester 2023</i>
+<br>
 <br>
 # Mentoring 
 
-My love of urban trees is driven by a deep sense of curiosity that was cultivated into a passion for research with guidance from mentors. Through my mentors, I learned how to be curious about the plants surrounding me, ask meaningful questions, and design data-driven research projects. I believe inclusive mentorship and support for students of all backgrounds is the best way that I can promote diversity and inclusion in STEM and help cultivate great scientists. My teaching and mentoring philosophy is rooted in cultivating a sense of wonder and curiosity in my students, inspiring them to use the scientific process in their day-to-day lives, as well as their careers. I had a phenomenal teacher who started each class by asking his students to describe something beautiful they saw that week, then listened carefully and attentively to each student, providing us with the sense that he cared about us, and that his classroom was a safe space to engage and ask questions. As a teacher, I often emulate his practices. When I teach, my hope is to cultivate a sense of wonder in my students, show that I have a stake in their learning and care about each student, and give clear and consistent expectations about how to succeed in my course or research. When leaving my lab or classroom, I hope my students have gained confidence in developing challenging technical skills and applied the scientific process to answer a question they are curious about. To see specific students or projects I have advised, please see my CV.
+My love for science is deeply connected to my passion for teaching and mentoring, and I strive to create a supportive and engaging learning environment. Whether guiding students in ecology, biochemistry, animal science, cell and molecular biology, or other fields, I focus on making complex concepts accessible and inspiring curiosity. One of the most rewarding aspects of mentoring is the genuine connections I build with my students. They feel comfortable coming to me with questions, challenges, and ideas, knowing that I am always ready to listen, support, and guide them. I take pride in fostering a space where students feel encouraged to explore, make mistakes, and grow in confidence. Watching them develop their skills, pursue their passions, and achieve their goals is one of the most fulfilling parts of my journey as a mentor and educator.
+
+For a detailed overview of the students I have mentored and the research projects I have advised, please refer to my CV. It includes specific names, topics, and contributions of students I have worked with, highlighting their research focus. It also provides insights into the impact of my mentorship, showcasing how I have supported students in developing their skills, pursuing independent research, and achieving their academic and professional goals.
+
+<br>
+<div><img src="/images/joan-mentees.jpg" alt="With two of my students at the 2022 Bio152 Annual Poster Symposium, UW Madison" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>With two of my students at the 2022 Bio152 Annual Poster Symposium, UW Madison</i>
+
+ <br>
+<div><img src="/images/evalyse.png" alt="Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling</i>
