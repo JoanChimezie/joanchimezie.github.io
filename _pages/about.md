@@ -7,24 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
+### Research
 
-I am a Ph.D. student in the Geography Department at UCLA. I study California's urban forests. Previous work has focused on the distribution of California's native trees, the composition of species and trees growing in California's urban forests, the development of a neural network to predict the location of every tree in urban California, mapping cacao in the Amazon, how street tree biodiversity might predict urban temperatures, tracking changes in kelp canopy over time, and using UAVs to monitor intertidal zones.
+My research focuses on understanding the long-term interactions between wildfire, vegetation, and climate change. By analyzing charcoal records, fossil pollen, sediment cores, historical datasets, and GIS mapping, I reconstruct past wildfire activity and vegetation dynamics in California’s fire-prone landscapes. My work aims to identify how natural and human-driven fire regimes have shaped ecosystems over time and how this knowledge can inform modern fire management policies.
+ 
+Additionally, I explore the policy implications of fire history research, evaluating how past and present regulations have influenced wildfire patterns and ecological change. Through an interdisciplinary approach combining paleoecology, geography, and environmental policy, I seek to contribute to sustainable land management strategies that enhance climate resilience and biodiversity conservation.
+ 
+At UCLA, I work with Dr. Glen MacDonald.  I previously worked in Dr. Sara Hotchkiss’ PaleoEcology and Quaternary Paleoclimatology group at the University of Wisconsin-Madison. I have also been advised by Dr. Debra Willard (USGS), Dr. Miriam Jones (USGS) and Dr. Jack Williams (UW Madison).
+ 
+To know more about my research, check out my presentation (the presentation tab).
 
-I am passionate about combining field data and remote sensing to develop new ways track and map natural resources. Currently, I am working on using computer vision to assess ways to track changes in urban canopy over time using both active and passive remote sensing products across California. At UCLA, I work with Dr. Tom Gillespie. Previously, I've been advised by Dr. Matt Ritter, Dr. Jenn Yost, Dr. Andrew Fricker and Dr. Kyle Cavanaugh.
 
 # Education
 
 ### Ph.D. Geography
-*University of California, Los Angeles* In Progress
+*University of California, Los Angeles* (In Progress)
 
-### M.S. Biology
-*California Polytechnic State University, San Luis Obispo* 2023
+### M.S. Botany
+*University of Wisconsin-Madison* 2023
 
-### B.S. Environmental Science
-*University of California, Los Angeles* 2020
-
-Minors: Conservation Biology, Geospatial Information Science and Technology
+### B.S. Applied Botany (Environmental Botany and Palynology)
+*University of Lagos, Nigeria* 2019
 
 
+# Job
+
+Between my bachelor's and master's studies, I worked for approximately two years as an Environmental Consultant at AquaEarth Consulting. In this role, I was actively engaged in environmental planning, impact assessment, management, monitoring, and auditing across multiple sectors, including power, maritime, and oil & gas in Nigeria. My responsibilities required a deep understanding of environmental regulations, sustainability frameworks, and risk mitigation strategies to ensure strict compliance with industry and governmental standards.
 
 
