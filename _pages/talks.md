@@ -12,7 +12,17 @@ author_profile: true
 *December 11, 2024*
 Poster Presentation. AGU 2024 Meeting, Washington, DC.
 
-<div class="list__item"><article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork"><h2 class="archive__item-title" itemprop="headline"> <a href="https://krishnakrao.github.io/talks/phd-defense" rel="permalink">Parched Plants to Flaming Forests: Understanding Tree Mortality and Wildfires with Microwave Remote Sensing of Vegetation Water Stress </a></h2><p class="page__meta" stye="font-size: 0.75em; color: ##9ba1a6;"><i class="fas fa-calendar-alt" aria-hidden="true"></i> June 13, 2022</p><p class="archive__item-excerpt" itemprop="description">PhD Defense, PhD Public Defense, Stanford, California</p><p class="archive__item-excerpt" itemprop="description"></p><p><a href="https://www.youtube.com/watch?v=Q_aA6abPZP0" target="_blank">View presentation here</a></p><p></p></article></div>
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <p class="archive__item-title" itemprop="headline">
+    <a href="https://krishnakrao.github.io/talks/phd-defense" rel="permalink">
+    Parched Plants to Flaming Forests: Understanding Tree Mortality and Wildfires with Microwave Remote Sensing of Vegetation Water Stress 
+    </a>
+  </p>
+  <p class="page__meta" stye="font-size: 0.75em; color: ##9ba1a6;"><i class="fas fa-calendar-alt" aria-hidden="true"></i> June 13, 2022</p>
+  <p class="archive__item-excerpt" itemprop="description">PhD Defense, PhD Public Defense, Stanford, California</p>
+  </article>
+</div>
 
 **OpenCanopy: Tracking California’s Urban Forest** The Western Chapter of the International Society of Arboriculture. 
 *April 2024 | Cultivating Competence | Presentation*
