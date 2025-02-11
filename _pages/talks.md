@@ -4,7 +4,7 @@ title: "Talks and Posters"
 permalink: /talks/
 author_profile: true
 ---
-
+<br>
 <div><img src="/images/joan-speaking.png" alt="Joan speaking" style="width: 100%; max-height: 300px; object-fit: cover;"></div>
 
 <br>
@@ -12,12 +12,13 @@ author_profile: true
 <div class="list__item">
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
   <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">
-    <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428" rel="permalink">
+    <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428" rel="permalink" target="_blank">
     Long-term Record of Regional Vegetation and Biomass Burning in the High Fire Risk Plumas National Forest, California
     </a>
   </p>
   <p class="page__meta" stye="font-size: 0.75em; color: ##9ba1a6;"><i class="fas fa-calendar-alt" aria-hidden="true"></i> December 11, 2024</p>
-  <p class="archive__item-excerpt" itemprop="description">Poster Presentation. AGU 2024 Meeting, Washington, DC</p>
+  <p class="archive__item-excerpt" itemprop="description"><i>Poster Presentation</i> | AGU 2024 Meeting, Washington, DC</p>
+    <div><img src="/images/joan-washington.png" alt="Joan in Washington DC" style="width: 100%; max-height: 300px; object-fit: cover;"></div>
   </article>
 </div>
 
