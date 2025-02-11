@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<div><img src="/images/joan-speaking.png" alt="Joan speaking" style="width: 100%; max-height: 400px; object-fit: cover;"></div>
+<div><img src="/images/joan-speaking.png" alt="Joan speaking" style="width: 100%; max-height: 300px; object-fit: cover;"></div>
 
 <br>
 <br>
