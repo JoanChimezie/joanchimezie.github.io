@@ -24,7 +24,7 @@ author_profile: true
 
 <br>
 
-<div class="grid-imgs" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+<div class="grid-imgs">
 <div> <div><img src="/images/general-botany-b-2023.jpg" alt="General Botany, Section B - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
  <i>General Botany, Section B - Spring semester 2023</i></div>
 <div><div><img src="/images/general-botany-a-2023.jpg" alt="General Botany, Section A - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
