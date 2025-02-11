@@ -8,19 +8,15 @@ author_profile: true
 <div><img src="/images/joan-speaking.png" alt="Joan speaking" style="width: 100%; max-height: 400px; object-fit: cover;"></div>
 
 
-**[Long-term Record of Regional Vegetation and Biomass Burning in the High Fire Risk Plumas National Forest, California](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428)**
-*December 11, 2024*
-Poster Presentation. AGU 2024 Meeting, Washington, DC.
-
 <div class="list__item">
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
   <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">
-    <a href="https://krishnakrao.github.io/talks/phd-defense" rel="permalink">
-    Parched Plants to Flaming Forests: Understanding Tree Mortality and Wildfires with Microwave Remote Sensing of Vegetation Water Stress 
+    <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428" rel="permalink">
+    Long-term Record of Regional Vegetation and Biomass Burning in the High Fire Risk Plumas National Forest, California
     </a>
   </p>
-  <p class="page__meta" stye="font-size: 0.75em; color: ##9ba1a6;"><i class="fas fa-calendar-alt" aria-hidden="true"></i> June 13, 2022</p>
-  <p class="archive__item-excerpt" itemprop="description">PhD Defense, PhD Public Defense, Stanford, California</p>
+  <p class="page__meta" stye="font-size: 0.75em; color: ##9ba1a6;"><i class="fas fa-calendar-alt" aria-hidden="true"></i> December 11, 2024</p>
+  <p class="archive__item-excerpt" itemprop="description">Poster Presentation. AGU 2024 Meeting, Washington, DC</p>
   </article>
 </div>
 
