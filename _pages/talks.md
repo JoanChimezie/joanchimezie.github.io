@@ -4,7 +4,13 @@ title: "Talks and Posters"
 permalink: /talks/
 author_profile: true
 ---
-<img src="/assets/images/example.jpg" alt="Joan Talking" style="width: 100%; max-height: 400px; object-fit: cover;">
+<img src="/images/joan-speaking.jpg" alt="Joan speaking" style="width: 100%; max-height: 400px; object-fit: cover;">
+
+
+**[Long-term Record of Regional Vegetation and Biomass Burning in the High Fire Risk Plumas National Forest, California](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428)**
+*December 11, 2024*
+Poster Presentation. AGU 2024 Meeting, Washington, DC.
+
 
 **OpenCanopy: Tracking California’s Urban Forest** The Western Chapter of the International Society of Arboriculture. 
 *April 2024 | Cultivating Competence | Presentation*
