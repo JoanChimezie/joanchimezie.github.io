@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joan Chimezie"
 title_separator          : "-"
 name                     : &name "Joan"
-description              : &description "Biogeographer"
+description              : &description "Geographer/ Earth Scientist"
 url                      : https://joanchimezie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cami"
-  avatar           : "profile.png"
-  bio              : "Geography Ph.D. Student at UCLA. Biogeographer. Interested in spatial ecology and remote sensing. Currently focused on urban forests, but previous work has focused on tropical agriculture, invasive species, kelp, saltmarshes, and intertidal zones."
-  location         : "UCLA"
+  name             : "Joan Chimezie"
+  avatar           : "joan-profile.png"
+  bio              : "Geography PhD Student at UCLA. Paleoecology, Paleoclimatology, Wildfires, Policies"
+  location         : "Los Angeles, California"
+  school           : "UCLA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=nJVGrWIAAAAJ&hl=en"
-  email            : "camipawlak@g.ucla.edu"
+  googlescholar    : ""
+  email            : "jchimezie@g.ucla.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "camipawlak"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0003-0740-3956"
+  linkedin         : "joan-chimezie"
+  orcid            : "https://orcid.org/0000-0002-7645-4119"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
