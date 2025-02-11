@@ -18,7 +18,7 @@ author_profile: true
   </p>
   <p class="page__meta" stye="font-size: 0.75em; color: ##9ba1a6;"><i class="fas fa-calendar-alt" aria-hidden="true"></i> December 11, 2024</p>
   <p class="archive__item-excerpt" itemprop="description"><i>Poster Presentation</i> | AGU 2024 Meeting, Washington, DC</p>
-    <div><img src="/images/joan-washington.png" alt="Joan in Washington DC" style="width: 100%; max-height: 300px; object-fit: cover;"></div>
+    <div><img src="/images/joan-washington.png" alt="Joan in Washington DC" style="max-height: 300px; width: auto; object-fit: cover;"></div>
   </article>
 </div>
 
