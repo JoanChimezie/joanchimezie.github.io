@@ -11,9 +11,9 @@ author_profile: true
   <br>
 <br>
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-  <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">
+  <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">• 
     <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428" rel="permalink" target="_blank">
-    • Long-term Record of Regional Vegetation and Biomass Burning in the High Fire Risk Plumas National Forest, California
+    Long-term Record of Regional Vegetation and Biomass Burning in the High Fire Risk Plumas National Forest, California
     </a>
   </p>
   <p class="page__meta" stye="font-size: 0.75em; color: ##9ba1a6;"><i class="fas fa-calendar-alt" aria-hidden="true"></i>  December 11, 2024</p>
@@ -28,9 +28,9 @@ author_profile: true
   <br>
 <br>
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-  <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">
+  <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">• 
     <a href="https://www.sustain.ucla.edu/event/summer-2024-cdls-research-and-outreach-symposium/" rel="permalink" target="_blank">
-    • Holocene peatland Fire Reconstruction in the Appalachian Mountains of West Virginia, USA
+    Holocene peatland Fire Reconstruction in the Appalachian Mountains of West Virginia, USA
     </a>
   </p>
   <p class="page__meta" stye="font-size: 0.75em; color: ##9ba1a6;"><i class="fas fa-calendar-alt" aria-hidden="true"></i>  August 2, 2024</p>
@@ -46,9 +46,9 @@ author_profile: true
   <br>
 <br>
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-  <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">
+  <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">• 
     <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428" rel="permalink" target="_blank">
-    • Holocene peatland Fire Reconstruction in the Appalachian Mountains of West Virginia, USA
+    Holocene peatland Fire Reconstruction in the Appalachian Mountains of West Virginia, USA
     </a>
   </p>
   <p class="page__meta" stye="font-size: 0.75em; color: ##9ba1a6;"><i class="fas fa-calendar-alt" aria-hidden="true"></i>  April 17, 2024</p>
