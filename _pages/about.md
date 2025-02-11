@@ -18,6 +18,7 @@ At UCLA, I work with [Dr. Glen MacDonald](https://glenmmacdonald.com/). I previo
 To know more about my research, check out my presentation (the presentation tab).
 
 
+
 # Education
 
 ### Ph.D. Geography
@@ -30,9 +31,13 @@ To know more about my research, check out my presentation (the presentation tab)
 *University of Lagos, Nigeria* 2019
 
 
+
 # Job
 
 Between my bachelor's and master's studies, I worked for approximately two years as an Environmental Consultant at AquaEarth Consulting. In this role, I was actively engaged in environmental planning, impact assessment, management, monitoring, and auditing across multiple sectors, including power, maritime, and oil & gas in Nigeria. My responsibilities required a deep understanding of environmental regulations, sustainability frameworks, and risk mitigation strategies to ensure strict compliance with industry and governmental standards.
+
+
+
 
 <div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: center; align-items: center; width: 100%;">
   <img src="/images/outdoor2.jpg" alt="Me outdoor" style="width: 65%; max-width: 65%; min-width: 300px; height: auto;">
