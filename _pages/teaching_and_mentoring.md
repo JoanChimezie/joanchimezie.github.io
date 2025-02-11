@@ -7,16 +7,21 @@ author_profile: true
 
 
 
-**Advanced GIS, Teaching Assistant** -  California Polytechnic State University, San Luis Obispo (Spring 2023)
+**Geographies of Sustainability, Graduate Teaching Assistant** -  University of California Los Angeles (Spring 2025)
 
 
-**Field Botany, Teaching Assistant** -  California Polytechnic State University, San Luis Obispo (Spring 2023)
+**People and Earth Ecosystem, Graduate Teaching Assistant** -  University of California Los Angeles, 2025 (Winter 2025)
 
 
-**Introductory Botany, Lab Instructor** -  California Polytechnic State University, San Luis Obispo (Fall 2022)
+**Biodiversity in a Changing World, Graduate Teaching Assistant** -  University of California Los Angeles (Fall 2024)
 
 
-**Introductory Ecology and Evolution, Lab Instructor** -  California Polytechnic State University, San Luis Obispo (Spring 2022)
+**General Botany, Graduate Teaching Assistant** -  University of Wisconsin-Madison, Department of Botany (Spring 2023, Fall 2022, Fall 2021)
+
+**Introductory Biology, Graduate Teaching Assistant** -  University of Wisconsin-Madison, Department of Integrative Biology (Spring 2022)
+
+**Introductory Biology, Independent Project mentor and reviewer** -  University of Wisconsin-Madison, Department of Integrative Biology (Spring 2022)
+
 
 
 # Mentoring 
