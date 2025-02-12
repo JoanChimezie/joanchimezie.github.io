@@ -12,6 +12,7 @@ author_profile: true
 *By Hayley Lauren Bricker (CDLS)*
 <br>
 [Spotlight: My Research and the impact of Conservative Paleoecology Network (CPN) NSF award](https://conservationpaleorcn.org/wp-content/uploads/2024/05/CPN-Newsletter_-28-May-2024.pdf)
+<br>
 *By CPN*
 
 
