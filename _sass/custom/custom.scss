@@ -17,7 +17,7 @@ a {
 .grid-imgs {
 display: grid !important;
 grid-template-columns: repeat(2, 1fr) !important;
-gap: 1rem !important;
+gap: 2rem !important;
 }
 
   @media (max-width: 700px) {
