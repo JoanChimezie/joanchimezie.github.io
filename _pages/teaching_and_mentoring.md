@@ -35,11 +35,11 @@ author_profile: true
 <div><div><img src="/images/general-botany-a-2023.jpg" alt="General Botany, Section A - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
  <i>General Botany, Section A - Spring semester 2023</i></div>
 <div><div><img src="/images/general-botany-b-2022.jpg" alt="General Botany, Section B - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section B - Fall semester 2023</i></div>
+ <i>General Botany, Section B - Fall semester 2022</i></div>
 <div><div><img src="/images/general-botany-a-2022.jpg" alt="General Botany, Section A - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section A - Fall semester 2023</i></div>
+ <i>General Botany, Section A - Fall semester 2022</i></div>
 <div><div><img src="/images/general-botany-a-2021.jpg" alt="General Botany, Section A - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section B - Fall semester 2023</i></div>
+ <i>General Botany, Section A - Fall semester 2021</i></div>
 </div>
 <br>
 # Mentoring 
@@ -49,9 +49,16 @@ My love for science is deeply connected to my passion for teaching and mentoring
 For a detailed overview of the students I have mentored and the research projects I have advised, please refer to my CV. It includes specific names, topics, and contributions of students I have worked with, highlighting their research focus. It also provides insights into the impact of my mentorship, showcasing how I have supported students in developing their skills, pursuing independent research, and achieving their academic and professional goals.
 
 <br>
-<div><img src="/images/joan-mentees.jpg" alt="With two of my students at the 2022 Bio152 Annual Poster Symposium, UW Madison" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>With two of my students at the 2022 Bio152 Annual Poster Symposium, UW Madison</i>
 
- <br>
-<div><img src="/images/evalese.png" alt="Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling</i>
+
+<div class="grid-imgs" style="
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 2rem;
+    column-gap: 1rem;
+">
+<div><div><img src="/images/joan-mentees.jpg" alt="With two of my students at the 2022 Bio152 Annual Poster Symposium, UW Madison" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+<i>With two of my students at the 2022 Bio152 Annual Poster Symposium, UW Madison</i></div>
+<div><div><img src="/images/evalese.png" alt="Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling" style="max-height: 300px; width: auto; object-fit: cover;"></div>
+ <i>Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling</i></div>
+</div>
