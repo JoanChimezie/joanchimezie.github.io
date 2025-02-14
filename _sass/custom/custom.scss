@@ -2,6 +2,9 @@ body {
   background-color: #1f1f2a !important;
   color: white !important;
 }
+.page__footer {
+  display: none;
+}
 ::selection {
   background-color: #324EA4;
   color: #fff;
