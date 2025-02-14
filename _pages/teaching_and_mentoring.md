@@ -31,15 +31,15 @@ author_profile: true
     column-gap: 1rem;
 ">
 <div> <div><img src="/images/general-botany-b-2023.jpg" alt="General Botany, Section B - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section B - Spring semester 2023</i></div>
+ <i style="font-size: 0.75em">General Botany, Section B - Spring semester 2023</i></div>
 <div><div><img src="/images/general-botany-a-2023.jpg" alt="General Botany, Section A - Spring semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section A - Spring semester 2023</i></div>
+ <i style="font-size: 0.75em">General Botany, Section A - Spring semester 2023</i></div>
 <div><div><img src="/images/general-botany-b-2022.jpg" alt="General Botany, Section B - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section B - Fall semester 2022</i></div>
+ <i style="font-size: 0.75em">General Botany, Section B - Fall semester 2022</i></div>
 <div><div><img src="/images/general-botany-a-2022.jpg" alt="General Botany, Section A - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section A - Fall semester 2022</i></div>
+ <i style="font-size: 0.75em">General Botany, Section A - Fall semester 2022</i></div>
 <div><div><img src="/images/general-botany-a-2021.jpg" alt="General Botany, Section A - Fall semester 2023" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>General Botany, Section A - Fall semester 2021</i></div>
+ <i style="font-size: 0.75em">General Botany, Section A - Fall semester 2021</i></div>
 </div>
 <br>
 # Mentoring 
@@ -58,7 +58,7 @@ For a detailed overview of the students I have mentored and the research project
     column-gap: 1rem;
 ">
 <div><div><img src="/images/joan-mentees.jpg" alt="With two of my students at the 2022 Bio152 Annual Poster Symposium, UW Madison" style="max-height: 300px; width: auto; object-fit: cover;"></div>
-<i>With two of my students at the 2022 Bio152 Annual Poster Symposium, UW Madison</i></div>
+<i style="font-size: 0.75em">With two of my students at the 2022 Bio152 Annual Poster Symposium, UW Madison</i></div>
 <div><div><img src="/images/evalese.png" alt="Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling" style="max-height: 300px; width: auto; object-fit: cover;"></div>
- <i>Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling</i></div>
+ <i style="font-size: 0.75em">Evalyse (Mentee) at the UCLA MacDonald Paleo lab working on some pollen sampling</i></div>
 </div>
