@@ -13,7 +13,7 @@ My research focuses on understanding the long-term interactions between wildfire
  
 Additionally, I explore the policy implications of fire history research, evaluating how past and present regulations have influenced wildfire patterns and ecological change. Through an interdisciplinary approach combining paleoecology, geography, and environmental policy, I seek to contribute to sustainable land management strategies that enhance climate resilience and biodiversity conservation.
  
-At UCLA, I work with [Dr. Glen MacDonald](https://glenmmacdonald.com/). I previously worked in Dr. Sara Hotchkiss’ [PaleoEcology and Quaternary Paleoclimatology group](https://hotchkisslab.botany.wisc.edu/) at the University of Wisconsin-Madison. I have also been advised by Dr. Debra Willard (USGS), Dr. Miriam Jones (USGS) and Dr. Jack Williams (UW Madison).
+At UCLA, I work with [Dr. Glen MacDonald](https://glenmmacdonald.com/). I previously worked in Dr. Sara Hotchkiss’ [PaleoEcology and Quaternary Paleoclimatology group](https://hotchkisslab.botany.wisc.edu/) at the University of Wisconsin-Madison. I have also been advised by [Dr. Debra Willard (USGS)](https://www.usgs.gov/staff-profiles/debra-a-willard) and [Dr. Miriam Jones (USGS)](https://www.usgs.gov/staff-profiles/miriam-jones).
  
 To know more about my research, check out my presentation (the presentation tab).
 
