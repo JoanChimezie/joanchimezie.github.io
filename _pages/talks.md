@@ -45,7 +45,7 @@ author_profile: true
   <br>
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
   <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">• 
-    <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428" rel="permalink" target="_blank">
+    <a href="https://aag.secure-platform.com/aag2024/gallery/rounds/74/details/51890" rel="permalink" target="_blank">
     Holocene peatland Fire Reconstruction in the Appalachian Mountains of West Virginia, USA
     </a>
   </p>
@@ -61,7 +61,7 @@ author_profile: true
   <br>
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
   <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">• 
-    <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428" rel="permalink" target="_blank">
+    <a href="https://esa2023.eventscribe.net/fsPopup.asp?PosterID=589418&mode=posterInfo" rel="permalink" target="_blank">
     Holocene peatland Fire Reconstruction in the Appalachian Mountains of West Virginia, USA
     </a>
   </p>
@@ -77,7 +77,7 @@ author_profile: true
   <br>
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
   <p class="archive__item-title" itemprop="headline" style="font-weight: 700;">• 
-    <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573428" rel="permalink" target="_blank">
+    <a href="https://gsa.confex.com/gsa/2023SE/meetingapp.cgi/Paper/385620" rel="permalink" target="_blank">
     Holocene peatland Fire Reconstruction in the Appalachian Mountains of West Virginia, USA
     </a>
   </p>
