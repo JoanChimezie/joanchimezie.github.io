@@ -17,7 +17,12 @@ At UCLA, I work with [Dr. Glen MacDonald](https://glenmmacdonald.com/). I previo
  
 To know more about my research, check out my presentation (the presentation tab).
 
-
+<br>
+<div style="display: flex; gap: 20px; align-items: stretch; flex-wrap: wrap;">
+  <img src="/images/outdoor2.jpg" class="site-img" alt="Me outdoor" style="flex: 2; min-width: 200px; height: 300px; object-fit: cover;">
+  <img src="/images/outdoor1.jpg" class="site-img" alt="Joan outdoor" style="flex: 1; min-width: 200px; height: 300px; object-fit: cover;">
+</div>
+<br>
 
 # Education
 
@@ -35,13 +40,4 @@ To know more about my research, check out my presentation (the presentation tab)
 # Job
 
 Between my bachelor's and master's studies, I worked for approximately two years as an Environmental Consultant at AquaEarth Consulting. In this role, I was actively engaged in environmental planning, impact assessment, management, monitoring, and auditing across multiple sectors, including power, maritime, and oil & gas in Nigeria. My responsibilities required a deep understanding of environmental regulations, sustainability frameworks, and risk mitigation strategies to ensure strict compliance with industry and governmental standards.
-
-
-
-
-<div style="display: flex; gap: 20px; align-items: stretch; flex-wrap: wrap;">
-  <img src="/images/outdoor2.jpg" class="site-img" alt="Me outdoor" style="flex: 2; min-width: 200px; height: 300px; object-fit: cover;">
-  <img src="/images/outdoor1.jpg" class="site-img" alt="Joan outdoor" style="flex: 1; min-width: 200px; height: 300px; object-fit: cover;">
-</div>
-
 
