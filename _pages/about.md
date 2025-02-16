@@ -16,7 +16,6 @@ Additionally, I explore the policy implications of fire history research, evalua
 At UCLA, I work with [Dr. Glen MacDonald](https://glenmmacdonald.com/). I previously worked in Dr. Sara Hotchkiss’ [PaleoEcology and Quaternary Paleoclimatology group](https://hotchkisslab.botany.wisc.edu/) at the University of Wisconsin-Madison. I have also been advised by [Dr. Debra Willard (USGS)](https://www.usgs.gov/staff-profiles/debra-a-willard) and [Dr. Miriam Jones (USGS)](https://www.usgs.gov/staff-profiles/miriam-jones).
  
 Check out [my research](https://joanchimezie.github.io/talks/)
-<br>
 <div style="display: flex; gap: 20px; align-items: stretch; flex-wrap: wrap;">
   <img src="/images/outdoor2.jpg" class="site-img" alt="Me outdoor" style="flex: 2; min-width: 200px; height: 300px; object-fit: cover;">
   <img src="/images/outdoor1.jpg" class="site-img" alt="Joan outdoor" style="flex: 1; min-width: 200px; height: 300px; object-fit: cover;">
