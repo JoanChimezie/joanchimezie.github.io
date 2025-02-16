@@ -15,6 +15,11 @@ author_profile: true
 [Spotlight: My Research and the impact of Conservative Paleoecology Network (CPN) NSF award](https://conservationpaleorcn.org/wp-content/uploads/2024/05/CPN-Newsletter_-28-May-2024.pdf)
 <br>
 *By CPN*
+<br>
+<br>
+[Bridging Science and Policy: Joan Chimezie Selected for the CCST Science Translators Showcase](https://www.scipolucla.com/projects/bridging-science-and-policy-joan-chimezie-selected-for-the-ccst-science-translators-showcase)
+<br>
+*By Science Policy Group @ UCLA*
 
 
 
